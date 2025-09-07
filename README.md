@@ -8,5 +8,10 @@ Pasta modelos - modelos de documentos prontos para aulas diversas
 - Anydesk
 - Visual Studio Code
 - Sublime text 3
+- Servidor Web Apache
+- PHP
+- MySQL
+- PHPMyAdmin
+- OnlyOffice
 
 
