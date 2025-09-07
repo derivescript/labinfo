@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @derivescript
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning React and Vue.js
-<!---
-derivescript/derivescript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Configuração do Ambiente Linux para instalação de programas
+
+Pasta scripts - Contém scripts automatizados em shell para instalação e preparação de ambientes para criação de projetos com editores e linguagens de programação
+Pasta modelos - modelos de documentos prontos para aulas diversas
+
+
